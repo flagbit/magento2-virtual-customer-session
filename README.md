@@ -16,6 +16,8 @@ The customer with the email address that matches the value of the header will au
 
 | | |
 --- | ---
+Github | https://github.com/Flagbit/magento2-virtual-customer-session
+Packagist | https://packagist.org/packages/flagbit/magento2-virtual-customer-session
 Composer | flagbit/magento2-virtual-customer-session
 
 
